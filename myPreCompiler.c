@@ -3,7 +3,7 @@
 #include "headers/roots.h"
 
 int main(int argc, char *argv[]){
-    FILE *input, *output = NULL;
+    FILE *input, *output = stdout;
     _Bool is_v;
     int c_vars, r_errs, e_lcomms, i_files;
 
