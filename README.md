@@ -6,6 +6,7 @@
 - header non parsati (?)
 - parsing semplificato
 - stop parse
+- include ciclico (?)
 - funzione di stampa separata
 - precomp_procedure ricorsivo
 - write_on_error -> stderror
